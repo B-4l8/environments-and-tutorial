@@ -13,7 +13,7 @@ envs/
 │   └── mROCKET_GUIDE_##.ipynb  
 ├── SVM/  
 │   └── (생략)environment.yaml  
-│   └── plot  
+│   └── plot_wSVM  
 ├── ~/  
 │   └── environment.yaml  
 ├── ~/  
