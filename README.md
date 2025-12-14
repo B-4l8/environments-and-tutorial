@@ -11,8 +11,9 @@ envs/
 ├── miniROCKET/  
 │   └── environment.yaml  
 │   └── mROCKET_GUIDE_##.ipynb  
-├── ~/  
-│   └── environment.yaml  
+├── SVM/  
+│   └── (생략)environment.yaml  
+│   └── plot  
 ├── ~/  
 │   └── environment.yaml  
 ├── ~/  
